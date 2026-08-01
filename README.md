@@ -1,4 +1,4 @@
 ### 🌿 hey there :)
-i'm leonard,<br>i study 🪨 _geology_ and 🏺 _archaeology_ and enjoy using my coding skills to work on environmental issues!
+i'm leonard - i study **geology** and **archaeology** in innsbruck, asutria. i specialize in paleoenvironmental reconstruction and geoinformation science. when i'm not studying i like to work on some programming projects, mostly related to environmental topics. 
 
-i currently work on an environmental monitoring & conservation tool called _marsilea_ ☘️ (and a whole lot of side projects...)
+right now, i'm working on a *terrain generator* with many analytical functionalities :) 
